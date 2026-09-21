@@ -13,7 +13,7 @@ To interface a light-emitting diode (LED) with an Arduino Uno microcontroller bo
 ## Components
 
 ![][image1]
-
+![image1](Component1.png)
 &nbsp;
 
 &nbsp;
@@ -22,7 +22,7 @@ To interface a light-emitting diode (LED) with an Arduino Uno microcontroller bo
 
 &nbsp;
 
-WORKING
+
 
 &nbsp;
 
@@ -40,7 +40,7 @@ WORKING
 &nbsp;
 
 ![][image2]
-
+![image2](circuitdiagram.png)
 &nbsp;
 
 &nbsp;
@@ -70,7 +70,7 @@ WORKING
 &nbsp;
 
 ![][image3]
-
+![image3](Schematicdiagramled.png)
 &nbsp;
 
 CODE
@@ -137,7 +137,7 @@ void loop() {
 ###### *Result*
 
 ![][image4]
-
+![image4](result3.jpeg)
 The LED connected to Digital Pin 13 turned ON and OFF alternately with an interval of 1 second, confirming successful hardware interfacing and program execution on the Arduino Uno.
 
 &nbsp;
